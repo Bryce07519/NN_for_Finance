@@ -1,2 +1,2 @@
 # NN_for_Finance
-Using neural networks to predict the financial time series data
+Using neural networks (LSTM and Transfomer) to predict the financial time series data
